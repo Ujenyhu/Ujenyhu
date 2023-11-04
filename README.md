@@ -1,7 +1,12 @@
                                                        ###  👋 Hi, I am Ujenyuojo
-                                                       <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<details>
+<summary style="background-color: #0074D9; color: #FFFFFF; padding: 10px; cursor: pointer;">Email Address</summary>
+
+<div style="background-color: #E5E5E5; padding: 10px;">
+You can reach me at [your.email@example.com](mailto:your.email@example.com).
+</div>
+
+</details>
 
 <!--
 **Ujenyhu/Ujenyhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
