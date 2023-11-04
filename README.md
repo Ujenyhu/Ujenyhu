@@ -1,12 +1,6 @@
                                                        ###  👋 Hi, I am Ujenyuojo
-<details>
-<summary style="background-color: #0074D9; color: #FFFFFF; padding: 10px; cursor: pointer;">Email Address</summary>
+[<span style="color: #0074D9; text-decoration: none; border-bottom: 2px solid transparent; transition: border-color 0.2s;" onmouseover="this.style.borderColor='#0074D9'" onmouseout="this.style.borderColor='transparent'">Email Address</span>](mailto:egwudaprecious@gmail.com)
 
-<div style="background-color: #E5E5E5; padding: 10px;">
-You can reach me at [egwudaprecious@gmail.com](mailto:egwudaprecious@gmail.com).
-</div>
-
-</details>
 
 <!--
 **Ujenyhu/Ujenyhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
