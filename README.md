@@ -1,7 +1,7 @@
 
 <!-- Welcome and Title -->
-<h1 align="center">👋 Hi, I'm [Ujenyuojo](https://github.com/Ujenyhu)</h1>
-<p align="center">Welcome to My GitHub Profile</p>
+<h1 align="center">👋 Hi, I'm Ujenyuojo</h1>
+<p align="center" style="Color:#00000">Welcome to My GitHub Profile</p>
 
 
 Hi, I'm [Your Name](https://github.com/your-username), a passionate software engineer based in [Your Location](https://maps.google.com?q=Your%20Location). 👨‍💻
