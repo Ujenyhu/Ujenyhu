@@ -3,7 +3,7 @@
 <summary style="background-color: #0074D9; color: #FFFFFF; padding: 10px; cursor: pointer;">Email Address</summary>
 
 <div style="background-color: #E5E5E5; padding: 10px;">
-You can reach me at [your.email@example.com](mailto:your.email@example.com).
+You can reach me at [egwudaprecious@gmail.com](mailto:egwudaprecious@gmail.com).
 </div>
 
 </details>
