@@ -1,27 +1,40 @@
 
 <!-- Welcome and Title -->
 <h1 align="center">👋 Hi, I'm Ujenyuojo</h1>
-<p align="center" style="color:#00000">Welcome to My GitHub Profile</p>
+<p align="center">Welcome to My GitHub Profile</p>
 
+<p align="center"><a href="mailto:egwudaprecious@gmail.com" title="My Email Address"><code>email@gmail:egwudaprecious</code></a> </p>
 
-Hi, I'm [Your Name](https://github.com/your-username), a passionate software engineer based in [Your Location](https://maps.google.com?q=Your%20Location). 👨‍💻
+---
+<!--Briefly introduce yourself. -->
 
-Let's connect on social media:
+### About Me
+<blockquote>
+  
+Whether it's creating web applications, designing robust APIs, or managing data, I enjoy the challenge of solving problems through code.
 
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-username?style=social)](https://twitter.com/your-twitter-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-username)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://your-website.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:egwudaprecious@gmail.com)
+I am an avid learner and very keen on using secured engineering processes to bring ideas to life! 💡
+
+When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉
+
+In summary, I'm a passionate software engineer based in Abuja, Nigeria, who believes she is making a difference, one clean code at a time.
+
+<!--Contact Address or Social media -->
+<details>
+<summary><b> 📫 Socials </b></summary>
+
+<p> I am not into social media, but aside from my email, you can reach me on LinkedIn.</p>  
+<a href="mailto:egwudaprecious@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-egwudaprecious-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
+|
+<a href="https://www.linkedin.com/in/eujenyu" title="LinkedIn@ Egwuda Ujenyuojo"><img src="https://img.shields.io/badge/-eujenyu-075099?style=flat&logo=linkedin&logoColor=white"/></a>
+</details>
+
+</blockquote>
+
 
 ---
 
-### About Me
 
-I love building software that makes a difference. Whether it's creating web applications, designing robust APIs, or diving into data science projects, I enjoy the challenge of solving problems through code.
-
-Let's collaborate and make amazing things together! 💡
-
-Feel free to explore my repositories and get in touch. 😊
 
 
 <!--
