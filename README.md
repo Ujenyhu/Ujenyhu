@@ -22,7 +22,7 @@ In summary, I'm a passionate software engineer based in Abuja, Nigeria, who beli
 <!--Contact Address or Social media -->
 <details> <!-- start -->
    <summary><b> 📫 Socials </b></summary>
-
+   <p></p>
    <p> I am not into social media, but aside from my email, you can reach me on LinkedIn.</p>  
    <a href="mailto:egwudaprecious@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-egwudaprecious-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
    |
@@ -34,7 +34,7 @@ In summary, I'm a passionate software engineer based in Abuja, Nigeria, who beli
 <!--Articles or Blog Post-->
 <details> <!-- start -->
    <summary><b> 📚 Articles/Blog Posts </b></summary>
-
+   <p></p>
    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
 
   <!-- LIST OF ARTICLES -->
