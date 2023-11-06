@@ -20,14 +20,28 @@ When i am not coding or reading, any other fun thing i do is watch movies or sle
 In summary, I'm a passionate software engineer based in Abuja, Nigeria, who believes she is making a difference, one clean code at a time.
 
 <!--Contact Address or Social media -->
-<details>
-<summary><b> 📫 Socials </b></summary>
+<details> <!-- start -->
+   <summary><b> 📫 Socials </b></summary>
 
-<p> I am not into social media, but aside from my email, you can reach me on LinkedIn.</p>  
-<a href="mailto:egwudaprecious@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-egwudaprecious-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
-|
-<a href="https://www.linkedin.com/in/eujenyu" title="LinkedIn@ Egwuda Ujenyuojo"><img src="https://img.shields.io/badge/-eujenyu-075099?style=flat&logo=linkedin&logoColor=white"/></a>
-</details>
+   <p> I am not into social media, but aside from my email, you can reach me on LinkedIn.</p>  
+   <a href="mailto:egwudaprecious@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-egwudaprecious-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
+   |
+   <a href="https://www.linkedin.com/in/eujenyu" title="LinkedIn@ Egwuda Ujenyuojo"><img src="https://img.shields.io/badge/-eujenyu-075099?style=flat&logo=linkedin&logoColor=white"/></a>
+   
+</details><!-- end socials block -->
+
+
+<!--Articles or Blog Post-->
+<details> <!-- start -->
+   <summary><b> 📚 Articles/Blog Posts </b></summary>
+
+   <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
+
+  <!-- LIST OF ARTICLES -->
+  - [Mastering Object-Oriented Programming in C#: A Beginner’s Guide](https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3)
+  - [API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments](https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece)
+
+</details> <!-- end articles -->
 
 </blockquote>
 
