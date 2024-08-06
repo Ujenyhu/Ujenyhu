@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Egwuda Ujenyuojo</h1>
 <p align="center">Welcome to My GitHub Profile</p>
 
-<p align="center"><a href="mailto:egwudaprecious.hotmail@gmail.com" title="My Email Address"><code>email@gmail:egwudaprecious.hotmail</code></a> </p>
+<p align="center"><a href="mailto:egwudaprecious.hotmail@gmail.com" title="My Email Address"><code>gmail@:egwudaprecious.hotmail</code></a> </p>
 
 ---
 <!--Briefly introduce yourself. -->
@@ -26,9 +26,9 @@ In summary, I'm a passionate software engineer based in Abuja, Nigeria, who beli
    <p> I am not into social media, but aside from my email, you can reach me on LinkedIn or skype.</p>  
    <a href="mailto:egwudaprecious.hotmail@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-egwudaprecious-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
    |
-   <a href="https://www.linkedin.com/in/eujenyu" title="LinkedIn@ Egwuda Ujenyuojo"><img src="https://img.shields.io/badge/-eujenyu-075099?style=flat&logo=linkedin&logoColor=white"/></a>
-
-   <a href="skype:live:.cid.f549ed1c55db482c?chat" title="Skype@ Ujenyuojo"><img src="https://img.shields.io/badge/-eujenyu-075099?style=flat&logo=skype&logoColor=blue"/></a>
+   <a href="https://www.linkedin.com/in/eujenyu" title="LinkedIn@ Egwuda Ujenyuojo"><img src="https://img.shields.io/badge/-eujenyu-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+   |
+   <a href="skype:live:.cid.f549ed1c55db482c?chat" title="Skype@ Ujenyuojo"><img src="https://img.shields.io/badge/-skype@ujenyuojo-075099?style=flat&logo=skype&logoColor=white"/></a>
    
 </details><!-- end socials block -->
 
