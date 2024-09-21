@@ -1,6 +1,6 @@
 
 <!-- Welcome and Title -->
-<h1 align="center">👋 Hi, I'm Egwuda Ujenyuojo</h1>
+<h1 align="center">👋 Hi, I'm Egwuda Ujenyuojo Precious</h1>
 <p align="center">Welcome to My GitHub Profile</p>
 
 <p align="center"><a href="mailto:egwudaprecious.hotmail@gmail.com" title="My Email Address"><code>gmail@:egwudaprecious.hotmail</code></a> </p>
