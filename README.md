@@ -4,6 +4,7 @@
 <p align="center">Welcome to My GitHub Profile</p>
 
 <p align="center"><a href="mailto:egwudaprecious.hotmail@gmail.com" title="My Email Address"><code>gmail@:egwudaprecious.hotmail</code></a> </p>
+<p align="center"><a href="https://ujenyhu.github.io/about" title="Personal Website"><code>Portfolio Website</a> </p>
 
 ---
 <!--Briefly introduce yourself. -->
@@ -13,7 +14,7 @@
   
 Whether it's creating web applications, designing robust APIs, or managing data, I enjoy the challenge of solving problems through code.
 
-I am an avid learner and very keen on using secured engineering processes to bring ideas to life! 💡
+I am an avid learner and very keen on using secured engineering principles to bring ideas to life! 💡
 
 When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉
 
