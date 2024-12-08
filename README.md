@@ -4,7 +4,7 @@
 <p align="center">Welcome to My GitHub Profile</p>
 
 <p align="center"><a href="mailto:egwudaprecious.hotmail@gmail.com" title="My Email Address"><code>gmail@:egwudaprecious.hotmail</code></a> </p>
-<p align="center"><a href="https://ujenyhu.github.io/about" title="Personal Website"><code>Portfolio Website</a> </p>
+<p align="center"><a href="https://ujenyhu.github.io/about" title="Personal Website"><code>Portfolio Website</code</a> </p>
 
 ---
 <!--Briefly introduce yourself. -->
