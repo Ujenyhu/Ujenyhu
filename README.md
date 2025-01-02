@@ -24,18 +24,18 @@
 
 <!--Briefly introduce yourself. -->
 ---
-<h4 align="center">👨‍💻</h4>
+<h4 align="center">About Me 👨‍💻</h4>
  <p align="center">
    Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
    When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
 
+  <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
+    
    <!--Articles or Blog Post-->
 <details> <!-- start -->
-   <summary><b> 📚 Articles/Blog Posts </b></summary>
-   <p></p>
-   <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
-
+   <summary><b> 📚 Articles </b></summary>
+  
   <!-- LIST OF ARTICLES -->
   - [Mastering Object-Oriented Programming in C#: A Beginner’s Guide](https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3)
   - [API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments](https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece)
