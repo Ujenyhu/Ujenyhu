@@ -63,7 +63,6 @@
     <!-- Node.js -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
    <!-- SQL -->
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="50" height="50" />
 </p>
 
 ---
