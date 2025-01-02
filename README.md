@@ -55,13 +55,13 @@
 <h3 align="center">🧰Technologies</h3>
 <p align="center">
         <!-- C# -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
     <!-- JavaScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
     <!-- TypeScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
     <!-- Node.js -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original-woodmark.svg" alt="Node.js" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-woodmark.svg" alt="Node.js" width="50" height="50" />
    <!-- SQL -->
 </p>
 
