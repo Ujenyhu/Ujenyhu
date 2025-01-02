@@ -52,8 +52,7 @@
 ---
 
 
-
-### Technologies
+<h4 align="center"><style text-decoration🧰></style> Technologies</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">  
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
