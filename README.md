@@ -32,8 +32,9 @@
     
    <!--Articles or Blog Post-->
 <details> 
-   <summary><b> 📚 Articles </b></summary>
-    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
+  ### 📚 My Articles
+   
+  <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
   <!-- LIST OF ARTICLES -->
     - [API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments](https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece)
   - [Mastering Object-Oriented Programming in C#: A Beginner’s Guide](https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3)
