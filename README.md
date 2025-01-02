@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://ujenyhu.github.io/about">
-        <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio">
+        <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Opsgenie&logoColor=002147" alt="Portfolio">
     </a>
     <a href="skype:live:.cid.f549ed1c55db482c?chat">
       <img src="https://img.shields.io/badge/SKYPE-075099?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
@@ -35,7 +35,9 @@
      
    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
   <!-- LIST OF ARTICLES -->
-  - <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece" title="API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments"></a>
+  - <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece" title="">
+    API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments
+  </a>
   - <a href="https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3">
         Mastering Object-Oriented Programming in C#: A Beginner’s Guide
     </a>
@@ -60,8 +62,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
     <!-- Node.js -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
-    <!-- Python -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /> 
+   <!-- SQL -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="50" height="50" />
 </p>
 
 ---
