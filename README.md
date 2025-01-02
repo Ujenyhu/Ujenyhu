@@ -1,6 +1,6 @@
 
 <!-- Welcome and Title -->
-<h1 align="center">👋 Hi, I'm Egwuda Ujenyuojo Precious</h1>
+<h1 align="center">Hi there 👋</h1>
 <p align="center">Welcome to My GitHub Profile</p>
 
 <p align="center"><a href="mailto:egwudaprecious.hotmail@gmail.com" title="My Email Address"><code>gmail@:egwudaprecious.hotmail</code></a> </p>
@@ -12,13 +12,13 @@
 ### About Me
 <blockquote>
   
-Whether it's creating web applications, designing robust APIs, or managing data, I enjoy the challenge of solving problems through code.
+Whether it's creating web applications, or designing dependable APIs, I enjoy the challenge of solving problems through code.
 
 I am an avid learner and very keen on using secured engineering principles to bring ideas to life! 💡
 
 When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉
 
-In summary, I'm a passionate software engineer based in Abuja, Nigeria, who believes she is making a difference, one clean code at a time.
+In summary, I'm a driven software engineer specialized in backend development who believes she is making a difference, one clean code at a time.
 
 <!--Contact Address or Social media -->
 <details> <!-- start -->
