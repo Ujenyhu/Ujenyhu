@@ -24,7 +24,7 @@
 
 <!--Briefly introduce yourself. -->
 ---
-<h2 align="center">About Me 👨‍💻</h2>
+<h3 align="center">About Me 👨‍💻</h3>
  <p align="center">
    Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
@@ -52,7 +52,7 @@
 ---
 
 
-<h2 align="center">Technologies 🧰</h2>
+<h3 align="center">Technologies 🧰</h3>
 <p align="center">
         <!-- C# -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
