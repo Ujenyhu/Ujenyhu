@@ -1,6 +1,6 @@
 
 <!-- Welcome and Title -->
-<h1 align="center" style="color: #002147">Hi There! 👋</h1>
+<h1 align="center" style="color:#002147">Hi There! 👋</h1>
 <p align="center">
   <strong>Egwuda Ujenyuojo Precious</strong> is a software engineer with expertise in creating scalable <br> 
   and efficient systems who believes she is making a difference, one clean code at a time
@@ -35,14 +35,14 @@
      
    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
   <!-- LIST OF ARTICLES -->
-  -  <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece">
+  -  <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece" style="text-decoration:none">
         API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments
      </a>
-  -  <a hrefhttps://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3">
+  -  <a href="https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3">
         Mastering Object-Oriented Programming in C#: A Beginner’s Guide
      </a>
 
-  <a href="https://medium.com/@egwudaujenyuojo">
+  <a href="https://medium.com/@egwudaujenyuojo" style="margin-top:20px;">
         <img src="https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 
