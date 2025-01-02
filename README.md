@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-batch&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/eujenyu">
-        <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://ujenyhu.github.io/about" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-batch&logo=About.me&logoColor=white" alt="Portfolio">
