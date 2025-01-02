@@ -1,6 +1,6 @@
 
 <!-- Welcome and Title -->
-<h1 align="center" style="color:#002147">Hi There! 👋</h1>
+<h1 align="center" style="color: #002147;">Hi There! 👋</h1>
 <p align="center">
   <strong>Egwuda Ujenyuojo Precious</strong> is a software engineer with expertise in creating scalable <br> 
   and efficient systems who believes she is making a difference, one clean code at a time
@@ -24,7 +24,7 @@
 
 <!--Briefly introduce yourself. -->
 ---
-<h4 align="center">About Me 👨‍💻</h4>
+<h3 align="center">About Me 👨‍💻</h3>
  <p align="center">
    Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
@@ -35,14 +35,14 @@
      
    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
   <!-- LIST OF ARTICLES -->
-  -  <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece" style="text-decoration:none">
+  - <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece">
         API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments
      </a>
-  -  <a href="https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3">
+  - <a href="https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3">
         Mastering Object-Oriented Programming in C#: A Beginner’s Guide
      </a>
 
-  <a href="https://medium.com/@egwudaujenyuojo" style="margin-top:20px;">
+  <a href="https://medium.com/@egwudaujenyuojo">
         <img src="https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 
@@ -52,8 +52,9 @@
 ---
 
 
-<h4 align="center"><style text-decoration🧰></style> Technologies</h4>
+<h4 align="center">🧰Technologies</h4>
 <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
     <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">  
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">  
