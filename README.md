@@ -6,7 +6,12 @@
   and efficient systems who believes she is making a difference, one clean code at a time
   
 </p>
-
+ <p>
+   Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
+   very keen on using secured engineering principles to bring ideas to life! 💡<br>
+  
+  When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
+ </p> 
 <!-- Contact Badges -->
 <p align="center">
     <a href="mailto:egwudaprecious.hotmail@gmail.com" style="text-decoration: none;">
