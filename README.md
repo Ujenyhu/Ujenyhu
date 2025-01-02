@@ -14,7 +14,7 @@
 <!-- Contact Badges -->
 <p align="center">
     <a href="mailto:egwudaprecious.hotmail@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/%Gmail%gray?style=flat-square&logo=gmail&logoColor=red" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail%gray?style=flat-square&logo=gmail&logoColor=red" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/eujenyu" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
