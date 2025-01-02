@@ -52,7 +52,7 @@
 ---
 
 
-<h4 align="center">🧰Technologies</h4>
+<h3 align="center">🧰Technologies</h3>
 <p align="center">
         <!-- C# -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
