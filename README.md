@@ -9,7 +9,7 @@
 <!-- Contact Badges -->
 <p align="center">
     <a href="mailto:egwudaprecious.hotmail@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-batch&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/eujenyu">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -17,8 +17,8 @@
     <a href="https://ujenyhu.github.io/about">
         <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Portfolio">
     </a>
-    <a href="skype:live:.cid.f549ed1c55db482c?chat" title="Skype">
-      <img src="https://img.shields.io/badge/SKYPE-075099?style=for-the-batch&logo=skype&logoColor=white" alt="Skype"/>
+    <a href="skype:live:.cid.f549ed1c55db482c?chat">
+      <img src="https://img.shields.io/badge/SKYPE-075099?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
      </a>
 </p>
 
@@ -29,11 +29,8 @@
    Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
    When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
- </p> 
 
----
-
-<!--Articles or Blog Post-->
+   <!--Articles or Blog Post-->
 <details> <!-- start -->
    <summary><b> 📚 Articles/Blog Posts </b></summary>
    <p></p>
@@ -44,6 +41,11 @@
   - [API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments](https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece)
 
 </details> <!-- end articles -->
+ </p> 
+
+---
+
+
 
 ### Tech Stack
 <p align="center">
