@@ -9,26 +9,25 @@
 <!-- Contact Badges -->
 <p align="center">
     <a href="mailto:egwudaprecious.hotmail@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-batch&logo=gmail" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-batch&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/eujenyu" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-batch&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-batch&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://ujenyhu.github.io/about" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Portfolio-002147?style=flat-square&logo=web&logoColor=white" alt="Portfolio">
+        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-batch&logo=About.me&logoColor=002147" alt="Portfolio">
     </a>
     <a href="skype:live:.cid.f549ed1c55db482c?chat" title="Skype">
       <img src="https://img.shields.io/badge/Skype-075099?style=flat-square&logo=skype&logoColor=white" alt="Skype"/>
      </a>
 </p>
-
+---
 <!--Briefly introduce yourself. -->
-<h1 align="center">About Me 👨‍💻</h1>
+<h6 align="center">About Me 👨‍💻</h6>
  <p align="center">
    Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
-  
-  When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
+   When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
  </p> 
 
 ---
