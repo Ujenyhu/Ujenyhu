@@ -29,16 +29,18 @@
    Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
    When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
-
-  <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
     
    <!--Articles or Blog Post-->
-<details> <!-- start -->
+<details> 
    <summary><b> 📚 Articles </b></summary>
-  
+    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
   <!-- LIST OF ARTICLES -->
+    - [API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments](https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece)
   - [Mastering Object-Oriented Programming in C#: A Beginner’s Guide](https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3)
-  - [API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments](https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece)
+
+  <a href="https://medium.com/@egwudaujenyuojo">
+        <img src="https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
 
 </details> <!-- end articles -->
  </p> 
