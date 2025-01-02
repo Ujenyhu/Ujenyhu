@@ -1,37 +1,40 @@
 
 <!-- Welcome and Title -->
-<h1 align="center">Hi There! 👋</h1>
-<p align="center">Welcome to My GitHub Profile</p>
+<h1 align="center" style="color: #002147;">Hi There! 👋</h1>
+<p align="center">
+  Welcome to My GitHub Profile<br>
+ I am <strong>Egwuda Ujenyuojo Precious</strong>, a software engineer with expertise in creating scalable and efficient systems who believes she is making a difference, one clean code at a time
+  
+</p>
 
-<p align="center"><a href="mailto:egwudaprecious.hotmail@gmail.com" title="My Email Address"><code>gmail@:egwudaprecious.hotmail</code></a> </p>
-<p align="center"><a href="https://ujenyhu.github.io/about" title="Personal Website"><code>Portfolio Website</code</a> </p>
+<!-- Contact Badges -->
+<p align="center">
+    <a href="mailto:egwudaprecious.hotmail@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Email-your--email%40example.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/eujenyu" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://ujenyhu.github.io/about" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=flat-square&logo=web&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="skype:live:.cid.f549ed1c55db482c?chat" title="Skype">
+      <img src="https://img.shields.io/badge/-skype@ujenyuojo-075099?style=flat&logo=skype&logoColor=white" alt="Skype"/>
+     </a>
+</p>
 
 ---
 <!--Briefly introduce yourself. -->
 
 ### About Me
 <blockquote>
+ <p>
+   Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code.
   
-Whether it's creating web applications, or designing dependable APIs, I enjoy the challenge of solving problems through code.
-
-I am an avid learner and very keen on using secured engineering principles to bring ideas to life! 💡
-
-When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉
-
-In summary, I'm a driven software engineer specialized in backend development who believes she is making a difference, one clean code at a time.
-
-<!--Contact Address or Social media -->
-<details> <!-- start -->
-   <summary><b> 📫 Socials </b></summary>
-   <p></p>
-   <p> I am not into social media, but aside from my email, you can reach me on LinkedIn or skype.</p>  
-   <a href="mailto:egwudaprecious.hotmail@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-egwudaprecious-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
-   |
-   <a href="https://www.linkedin.com/in/eujenyu" title="LinkedIn@ Egwuda Ujenyuojo"><img src="https://img.shields.io/badge/-eujenyu-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-   |
-   <a href="skype:live:.cid.f549ed1c55db482c?chat" title="Skype@ Ujenyuojo"><img src="https://img.shields.io/badge/-skype@ujenyuojo-075099?style=flat&logo=skype&logoColor=white"/></a>
-   
-</details><!-- end socials block -->
+  I am an avid learner and very keen on using secured engineering principles to bring ideas to life! 💡
+  
+  When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
+ </p> 
 
 
 <!--Articles or Blog Post-->
