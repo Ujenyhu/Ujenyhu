@@ -15,15 +15,16 @@
         <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-batch&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://ujenyhu.github.io/about" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-batch&logo=About.me&logoColor=002147" alt="Portfolio">
+        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-batch&logo=About.me&logoColor=white" alt="Portfolio">
     </a>
     <a href="skype:live:.cid.f549ed1c55db482c?chat" title="Skype">
-      <img src="https://img.shields.io/badge/Skype-075099?style=flat-square&logo=skype&logoColor=white" alt="Skype"/>
+      <img src="https://img.shields.io/badge/SKYPE-075099?style=for-the-batch&logo=skype&logoColor=white" alt="Skype"/>
      </a>
 </p>
----
+
 <!--Briefly introduce yourself. -->
-<h6 align="center">About Me 👨‍💻</h6>
+---
+<h4 align="center">👨‍💻</h4>
  <p align="center">
    Whether it's creating web applications, or designing dependable APIs or microservices, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
