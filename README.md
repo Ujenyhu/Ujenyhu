@@ -35,12 +35,10 @@
      
    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
   <!-- LIST OF ARTICLES -->
-  - <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece">
-        API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments
-     </a>
+  - <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece" title="API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments"></a>
   - <a href="https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3">
         Mastering Object-Oriented Programming in C#: A Beginner’s Guide
-     </a>
+    </a>
 
   <a href="https://medium.com/@egwudaujenyuojo">
         <img src="https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
@@ -54,14 +52,17 @@
 
 <h4 align="center">🧰Technologies</h4>
 <p align="center">
+        <!-- C# -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
-    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">  
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">  
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">  
+    <!-- JavaScript -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <!-- TypeScript -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+    <!-- Node.js -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+    <!-- Python -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /> 
 </p>
-
-
 
 ---
 
