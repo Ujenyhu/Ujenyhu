@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/eujenyu">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://ujenyhu.github.io/about">
+    <a href="https://egwudaujenyuojo.vercel.app">
         <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Opsgenie&logoColor=002147" alt="Portfolio">
     </a>
     <a href="skype:live:.cid.f549ed1c55db482c?chat">
