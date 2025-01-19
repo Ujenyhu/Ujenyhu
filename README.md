@@ -3,7 +3,7 @@
 <h1 align="center" style="color: #002147;">Hi There! 👋</h1>
 <p align="center">
   <strong>Egwuda Ujenyuojo Precious</strong> is a software engineer with expertise in creating scalable <br> 
-  and efficient systems who believes she is making a difference, one clean code at a time
+  and efficient systems and believes she is making a difference, one clean code at a time
 </p>
  
 <!-- Contact Badges -->
