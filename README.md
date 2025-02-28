@@ -44,7 +44,7 @@
 
  <br>
 
- [[See More On Medium](https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@egwudaujenyuojo)
+ [![See More On Medium](https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@egwudaujenyuojo)
   
 
   </details> 
