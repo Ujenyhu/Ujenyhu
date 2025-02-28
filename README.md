@@ -29,10 +29,11 @@
    Whether it's creating web applications, or designing dependable APIs, I enjoy the challenge of solving problems through code. I am an avid learner and 
    very keen on using secured engineering principles to bring ideas to life! 💡<br>
    When i am not coding or reading, any other fun thing i do is watch movies or sleep.😉  
-    
+
+  <br>
   <details> 
     <summary><b>📚 My Articles</b></summary>
-     
+     <br>
    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
    
   <!-- LIST OF ARTICLES -->
