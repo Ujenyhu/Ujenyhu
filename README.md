@@ -34,20 +34,21 @@
     <summary><b>📚 My Articles</b></summary>
      
    <p> I occasionally write articles on various topics on Medium. Here are some of my recent posts. ⬇️</p> 
+   
   <!-- LIST OF ARTICLES -->
-  - <a href="https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece" title="">
-    API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments
-  </a>
-  - <a href="https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3">
-        Mastering Object-Oriented Programming in C#: A Beginner’s Guide
-    </a>
+   - [🔗 API Documentation in .NET 7: Swagger, OpenAPI, and XML Comments](https://medium.com/@egwudaujenyuojo/implement-api-documentation-in-net-7-swagger-openapi-and-xml-comments-214caf53eece)
 
-  <a href="https://medium.com/@egwudaujenyuojo">
-        <img src="https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+  - [🔗 Mastering Object-Oriented Programming in C#: A Beginner’s Guide](https://medium.com/@egwudaujenyuojo/mastering-object-oriented-programming-in-c-a-beginners-guide-59e06225b2f3)
+
+ - [🔗 Global Error Handling in ASP.NET Core Web API](https://medium.com/@egwudaujenyuojo/global-error-handling-in-asp-net-core-web-api-962c1ab8a516)
+
+ <br>
+
+ [[See More On Medium](https://img.shields.io/badge/See_More_On_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@egwudaujenyuojo)
+  
 
   </details> 
-  </p> 
+</p> 
 
 ---
 
