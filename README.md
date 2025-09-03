@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/eujenyu">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://egwudaujenyuojo.vercel.app">
+    <a href="https://ujenyuojoegwuda.vercel.app">
         <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Opsgenie&logoColor=002147" alt="Portfolio">
     </a>
     <a href="skype:live:.cid.f549ed1c55db482c?chat">
@@ -60,11 +60,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
     <!-- JavaScript -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Node.js" width="50" height="50" />
     <!-- TypeScript -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
     <!-- Node.js -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/python-original.svg" alt="Node.js" width="50" height="50" />
    <!-- SQL -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" alt="Node.js" width="50" height="50" />
+  
 </p>
 
 ---
