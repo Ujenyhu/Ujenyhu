@@ -62,10 +62,6 @@
     <!-- JavaScript -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
     
-    <!-- TypeScript -->
-    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />-->
-    <!-- Node.js -->
-    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/python-original.svg" alt="Node.js" width="50" height="50" />-->
    <!-- SQL -->
    <img src="https://cdn.jsdelivr.net/npm/devicon@1.8.0/!SVG/database.svg" alt="mssql" width="50" height="50" />
   
