@@ -58,15 +58,16 @@
 <p align="center">
         <!-- C# -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Node.js" width="50" height="50" />
     <!-- JavaScript -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Node.js" width="50" height="50" />
+    
     <!-- TypeScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
     <!-- Node.js -->
     <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/python-original.svg" alt="Node.js" width="50" height="50" />
    <!-- SQL -->
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" alt="Node.js" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/!SVG/msql-server.svg" alt="Node.js" width="50" height="50" />
   
 </p>
 
